@@ -4,7 +4,7 @@ Use the checkboxes for today's session. Commit this file after each study sessio
 
 ## Week 1 – Java fundamentals
 
-- [ ] Day 1: Variables, primitive/reference types, operators, input/output. Write a simple calculator.
+- [X] Day 1: Variables, primitive/reference types, operators, input/output. Write a simple calculator.
 - [ ] Day 2: if/else, switch, boolean logic. Write even/odd, positive/negative and grade programs.
 - [ ] Day 3: for, while, do-while loops. Write multiplication table, sum of digits and reverse-number programs.
 - [ ] Day 4: Methods, parameters, return values, overloading. Refactor earlier programs into methods.
